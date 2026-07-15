@@ -1,0 +1,5 @@
+com\example\eventgateway\EventGatewayApplication.class
+com\example\eventgateway\model\Event.class
+com\example\eventgateway\repository\EventRepository.class
+com\example\eventgateway\controller\EventController.class
+com\example\eventgateway\controller\Logging.class
