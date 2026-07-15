@@ -1,0 +1,5 @@
+com\example\accountservice\repository\TransactionRepository.class
+com\example\accountservice\AccountServiceApplication.class
+com\example\accountservice\model\Transaction.class
+com\example\accountservice\controller\AccountController.class
+com\example\accountservice\controller\Logging.class
